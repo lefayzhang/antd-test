@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# Ant Design 实战课程配套代码
-=======
-# Ant Design 222
->>>>>>> 222
-
+#页面预览https://lefayzhang.github.io/antd-test//build/#
 <img src="https://gw.alipayobjects.com/zos/rmsportal/DReQIejdcJPeaXWEDKDe.png" />
